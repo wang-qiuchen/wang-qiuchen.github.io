@@ -25,22 +25,22 @@ My research interest includes computer vision, Large Language Models, and Retrie
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
 <!-- psedet -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='../images/psedet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='../images/psedet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **PseDet: Revisiting the Power of Pseudo Label in Incremental Object Detection**
 
 **Qiuchen Wang**,
-[Zehui Chen](),
+Zehui Chen,
 Chenhongyi Yang,
 JIaming Liu,
-Zhenyu Li
-[Feng Zhao](https://scholar.google.co.uk/citations?user=r6CvuOUAAAAJ&hl=en),
+Zhenyu Li,
+Feng Zhao,
 
 [[**Project**]]()&nbsp;
 [[**Paper**]]()&nbsp;
@@ -50,18 +50,47 @@ Zhenyu Li
 </div>
 <!-- psedet -->
 
+<!-- mindsearch -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='../images/mindsearch.webp' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**MindSearch: Mimicking Human Minds Elicits Deep AI Searcher**
+
+Zehui Chen\*, Kuikun Liu\*, **Qiuchen Wang**, Jiangning Liu, Wenwei Zhang, Kai Chen, Feng Zhao
+
+[[**Project**]](https://mindsearch.netlify.app/)&nbsp;
+[[**Paper**]](https://arxiv.org/abs/2407.20183)&nbsp;
+[[**Code**]](https://github.com/InternLM/MindSearch)
+
+</div>
+</div>
+<!-- mindsearch -->
+
+<!-- agentflan -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='../images/agentflan.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models**
+
+Zehui Chen, Kuikun Liu, Qiuchen Wang, Wenwei Zhang, Jiangning Liu, Dahua Lin, Kai Chen, Feng Zhao
+
+[[**Project**]]()&nbsp;
+[[**Paper**]](https://arxiv.org/abs/2403.12881)&nbsp;
+[[**Code**]]()
+
+</div>
+</div>
+<!-- agentflan -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
 - *2023.09 - present*, M.S. at Huazhong University of Science and Technology of China. 
 - *2019.09 - 2023.06*, B.S. in Electronic Information and Communications of Huazhong University of Science and Technology. 
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.08 - present*, Qwen RAG Group at Alibaba-inc, China.

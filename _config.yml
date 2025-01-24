@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Qiuchen Wang"
+description              : "Hi! I’m Qiuchen Wang, a second year graduate student at University of Science and Technology of China. I am co-supervised by Prof. Feng Zhao and Prof. Feng Wu. Previously, I obtained my B.Eng. degree at EIC of Huazhong University of Science and Technology, under the guidance of Professor Xinge You."
 repository               : "wang-qiuchen/wang-qiuchen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qiuchen Wang"
   avatar           : "images/IMG.JPG"
-  bio              : "Lorem ipsum College"
+  bio              : "University of Science and Technology of China"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 

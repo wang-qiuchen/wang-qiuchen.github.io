@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qiuchen Wang"
-description              : "Hi! I’m Qiuchen Wang, a second year graduate student at University of Science and Technology of China. I am co-supervised by Prof. Feng Zhao and Prof. Feng Wu. Previously, I obtained my B.Eng. degree at EIC of Huazhong University of Science and Technology, under the guidance of Professor Xinge You."
+description              : "Master Student at University of Science and Technology of China"
 repository               : "wang-qiuchen/wang-qiuchen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qiuchen Wang"
   avatar           : "images/IMG.JPG"
-  bio              : "University of Science and Technology of China"
+  bio              : 
   location         : "Shanghai, China"
   employer         :
   pubmed           : 

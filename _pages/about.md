@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I’m Qiuchen Wang, a second year graduate student at University of Science and Technology of China. I am co-supervised by Prof. Feng Zhao and Prof. Feng Wu. Previously, I obtained my B.Eng. degree at EIC of Huazhong University of Science and Technology, under the guidance of Prof. Xinge You.
+Hi! I’m Qiuchen Wang, a second year graduate student at University of Science and Technology of China. I am co-supervised by Prof. Feng Zhao and Prof. Feng Wu. Previously, I obtained my B.Eng. degree in Electronic Information and Communications of Huazhong University of Science and Technology, under the guidance of Prof. Xinge You.
 
 My research interest includes Large Language Models, Retrieval-augmented Generation, and Object Detection. 
 

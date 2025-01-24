@@ -85,6 +85,9 @@ Zehui Chen, Kuikun Liu, **Qiuchen Wang**, Wenwei Zhang, Jiangning Liu, Dahua Lin
 
 # 🎖 Awards
 - $1^{st}$ place at VCL2023 Challenge, Multitask Learning for Robustness Track! (**ICCV 2023** Workshop)
+- Outstanding Graduates of Huazhong University of Science and Technology, 2023.
+- Merit Student of Huazhong University of Science and Technology, 2021, 2022.
+- The First Prize of the 12th China Undergraduate Mathematics Competition, 2020.
 
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->

@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! I’m Qiuchen Wang, a second year graduate student at University of Science and Technology of China. I am co-supervised by Prof. Feng Zhao and Prof. Feng Wu. Previously, I obtained my B.Eng. degree at EIC of Huazhong University of Science and Technology, under the guidance of Prof. Xinge You.
 
-My research interest includes Object Detection, Large Language Models, and Retrieval-augmented Generation. 
+My research interest includes Large Language Models, Retrieval-augmented Generation, and Object Detection. 
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 

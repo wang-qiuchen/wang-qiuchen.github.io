@@ -24,7 +24,7 @@ My research interest includes computer vision, Large Language Models, and Retrie
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-# 🔥 News
+<!-- # 🔥 News -->
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
@@ -59,7 +59,8 @@ Zehui Chen\*, Kuikun Liu\*, **Qiuchen Wang**, Jiangning Liu, Wenwei Zhang, Kai C
 
 [[**Project**]](https://mindsearch.netlify.app/)&nbsp;
 [[**Paper**]](https://arxiv.org/abs/2407.20183)&nbsp;
-[[**Code**]](https://github.com/InternLM/MindSearch)
+[[**Code**]](https://github.com/InternLM/MindSearch)[![GitHub stars](https://img.shields.io/github/stars/InternLM/MindSearch?style=social)](https://github.com/InternLM/MindSearch/stargazers)
+
 
 </div>
 </div>
@@ -72,15 +73,16 @@ Zehui Chen\*, Kuikun Liu\*, **Qiuchen Wang**, Jiangning Liu, Wenwei Zhang, Kai C
 
 Zehui Chen, Kuikun Liu, **Qiuchen Wang**, Wenwei Zhang, Jiangning Liu, Dahua Lin, Kai Chen, Feng Zhao
 
-[[**Project**]]()&nbsp;
+[[**Project**]](https://internlm.github.io/Agent-FLAN)&nbsp;
 [[**Paper**]](https://arxiv.org/abs/2403.12881)&nbsp;
-[[**Code**]]()
+[[**Code**]](https://github.com/InternLM/Agent-FLAN)
 
 </div>
 </div>
 <!-- agentflan -->
 
-# 🎖 Honors and Awards
+# 🎖 Awards
+- $1^{st}$ place at VCL2023 Challenge, Multitask Learning for Robustness Track! (**ICCV 2023** Workshop)
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
@@ -93,5 +95,5 @@ Zehui Chen, Kuikun Liu, **Qiuchen Wang**, Wenwei Zhang, Jiangning Liu, Dahua Lin
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2024.08 - present*, Qwen RAG Group at Alibaba-inc, Hangzhou, China.
-- *2023.03 - 2023.06*, imotion, Suzhou, China.
+- *2024.08 - present*, LLM Research Intern, Qwen RAG Group at Alibaba-inc, China.
+- *2023.03 - 2023.06*, iMotion, Suzhou, China.

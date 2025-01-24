@@ -70,7 +70,7 @@ Zehui Chen\*, Kuikun Liu\*, **Qiuchen Wang**, Jiangning Liu, Wenwei Zhang, Kai C
 <div class='paper-box-text' markdown="1">
 **Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models**
 
-Zehui Chen, Kuikun Liu, Qiuchen Wang, Wenwei Zhang, Jiangning Liu, Dahua Lin, Kai Chen, Feng Zhao
+Zehui Chen, Kuikun Liu, **Qiuchen Wang**, Wenwei Zhang, Jiangning Liu, Dahua Lin, Kai Chen, Feng Zhao
 
 [[**Project**]]()&nbsp;
 [[**Paper**]](https://arxiv.org/abs/2403.12881)&nbsp;

@@ -75,7 +75,7 @@ Zehui Chen, Kuikun Liu, **Qiuchen Wang**, Wenwei Zhang, Jiangning Liu, Dahua Lin
 
 [[**Project**]](https://internlm.github.io/Agent-FLAN)&nbsp;
 [[**Paper**]](https://arxiv.org/abs/2403.12881)&nbsp;
-[[**Code**]](https://github.com/InternLM/Agent-FLAN)
+[[**Code**]](https://github.com/InternLM/Agent-FLAN)[![GitHub stars](https://img.shields.io/github/stars/InternLM/Agent-FLAN?style=social)](https://github.com/InternLM/Agent-FLAN/stargazers)
 
 </div>
 </div>

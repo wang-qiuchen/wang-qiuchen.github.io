@@ -93,4 +93,5 @@ Zehui Chen, Kuikun Liu, **Qiuchen Wang**, Wenwei Zhang, Jiangning Liu, Dahua Lin
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2024.08 - present*, Qwen RAG Group at Alibaba-inc, China.
+- *2024.08 - present*, Qwen RAG Group at Alibaba-inc, Hangzhou, China.
+- *2023.03 - 2023.06*, imotion, Suzhou, China.

@@ -44,6 +44,8 @@ JIaming Liu,
 Zhenyu Li,
 Feng Zhao,
 
+*International Conference on Learning Representations (**ICLR**), 2025*
+
 [[**Project**]]()&nbsp;
 [[**Paper**]]()&nbsp;
 [[**Code**]]()
@@ -58,6 +60,8 @@ Feng Zhao,
 **MindSearch: Mimicking Human Minds Elicits Deep AI Searcher**
 
 Zehui Chen\*, Kuikun Liu\*, **Qiuchen Wang**, Jiangning Liu, Wenwei Zhang, Kai Chen, Feng Zhao
+
+*International Conference on Learning Representations (**ICLR**), 2025*
 
 [[**Project**]](https://mindsearch.netlify.app/)&nbsp;
 [[**Paper**]](https://arxiv.org/abs/2407.20183)&nbsp;
@@ -74,6 +78,9 @@ Zehui Chen\*, Kuikun Liu\*, **Qiuchen Wang**, Jiangning Liu, Wenwei Zhang, Kai C
 **Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models**
 
 Zehui Chen, Kuikun Liu, **Qiuchen Wang**, Wenwei Zhang, Jiangning Liu, Dahua Lin, Kai Chen, Feng Zhao
+
+*Findings of the Association for Computational Linguistics (**ACL Findings**) , 2024*
+
 
 [[**Project**]](https://internlm.github.io/Agent-FLAN)&nbsp;
 [[**Paper**]](https://arxiv.org/abs/2403.12881)&nbsp;

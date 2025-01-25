@@ -96,11 +96,8 @@ Zehui Chen, Kuikun Liu, **Qiuchen Wang**, Wenwei Zhang, Jiangning Liu, Dahua Lin
 - Merit Student of Huazhong University of Science and Technology, 2021, 2022.
 - The First Prize of the 12th China Undergraduate Mathematics Competition, 2020.
 
-<!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
 # 📖 Educations
-- *2023.09 - present*, M.E. at Huazhong University of Science and Technology of China. 
+- *2023.09 - present*, M.E. at University of Science and Technology of China. 
 - *2019.09 - 2023.06*, B.E. in Electronic Information and Communications of Huazhong University of Science and Technology. 
 
 <!-- # 💬 Invited Talks

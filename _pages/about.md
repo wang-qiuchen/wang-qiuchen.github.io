@@ -33,7 +33,7 @@ My research interest includes Large Language Models, Retrieval-augmented Generat
 # 📝 Publications 
 
 <!-- vidorag -->
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/vidorag.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/vidorag.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **ViDoRAG: Visual Document Retrieval Augmented Generation via Dynamic Iterative Reasoning Agents**
 

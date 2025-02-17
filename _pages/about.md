@@ -32,8 +32,33 @@ My research interest includes Large Language Models, Retrieval-augmented Generat
 
 # 📝 Publications 
 
+<!-- vidorag -->
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/vidorag.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**ViDoRAG: Visual Document Retrieval Augmented Generation via Dynamic Iterative Reasoning Agents**
+
+**Qiuchen Wang**,
+Ruixue Ding,
+Zehui Chen,
+Weiqi Wu,
+Shihang Wang,
+Pengjun Xie,
+Feng Zhao
+
+*Arxiv*
+
+[[**Project**]]()&nbsp;
+[[**Paper**]]()&nbsp;
+[[**Code**]]()
+
+</div>
+</div>
+<!-- vidorag -->
+
+
 <!-- psedet -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='../images/psedet.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='../images/psedet.png' alt="sym" width="100%"></div></div> -->
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/psedet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **PseDet: Revisiting the Power of Pseudo Label in Incremental Object Detection**
 
@@ -42,7 +67,7 @@ Zehui Chen,
 Chenhongyi Yang,
 JIaming Liu,
 Zhenyu Li,
-Feng Zhao,
+Feng Zhao
 
 *International Conference on Learning Representations (**ICLR**), 2025*
 
@@ -55,7 +80,7 @@ Feng Zhao,
 <!-- psedet -->
 
 <!-- mindsearch -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='../images/mindsearch.webp' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/mindsearch.webp' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **MindSearch: Mimicking Human Minds Elicits Deep AI Searcher**
 
@@ -73,7 +98,7 @@ Zehui Chen\*, Kuikun Liu\*, **Qiuchen Wang**, Jiangning Liu, Wenwei Zhang, Kai C
 <!-- mindsearch -->
 
 <!-- agentflan -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='../images/agentflan.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/agentflan.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models**
 

@@ -58,7 +58,7 @@ Feng Zhao
 
 <!-- psedet -->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='../images/psedet.png' alt="sym" width="100%"></div></div> -->
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/psedet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/psedet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **PseDet: Revisiting the Power of Pseudo Label in Incremental Object Detection**
 
@@ -98,7 +98,7 @@ Zehui Chen\*, Kuikun Liu\*, **Qiuchen Wang**, Jiangning Liu, Wenwei Zhang, Kai C
 <!-- mindsearch -->
 
 <!-- agentflan -->
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/agentflan.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/agentflan.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models**
 

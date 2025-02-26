@@ -21,9 +21,6 @@ Hi! I’m Qiuchen Wang, a second year graduate student at University of Science 
 
 My research interest includes Large Language Models, Retrieval-augmented Generation, and Continual Learning. 
 
-<!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-
-
 # 🔥 News
 - **2025.1**: Two paper got accepted to ICLR 2025
 - **2024.7**: We released [MindSearch(思·索)](https://mindsearch.netlify.app/), which is an awesome AI search engine comparable to Perplexity.ai Pro. Welcome to use and provide your feedback!
@@ -45,14 +42,14 @@ Shihang Wang,
 Pengjun Xie,
 Feng Zhao
 
-*Arxiv*
+*Preprint*
 
-[[**Project**]]()&nbsp;
-[[**Paper**]]()&nbsp;
-[[**Code**]]()
+[[**Paper**]](https://arxiv.org/abs/2502.18017)&nbsp;
+[[**Code&Dataset**]](https://github.com/Alibaba-NLP/ViDoRAG)
 
 </div>
 </div>
+
 <!-- vidorag -->
 
 

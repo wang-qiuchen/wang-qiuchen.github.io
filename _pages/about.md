@@ -45,7 +45,8 @@ Feng Zhao
 *Preprint*
 
 [[**Paper**]](https://arxiv.org/abs/2502.18017)&nbsp;
-[[**Code&Dataset**]](https://github.com/Alibaba-NLP/ViDoRAG)
+[[**Code**]](https://github.com/Alibaba-NLP/ViDoRAG)&nbsp;
+[[**Code**]](https://huggingface.co/datasets/autumncc/ViDoSeek)
 
 </div>
 </div>
@@ -68,9 +69,8 @@ Feng Zhao
 
 *International Conference on Learning Representations (**ICLR**), 2025*
 
-[[**Project**]]()&nbsp;
 [[**Paper**]]()&nbsp;
-[[**Code**]]()
+[[**Code**]](https://github.com/wang-qiuchen/PseDet)
 
 </div>
 </div>

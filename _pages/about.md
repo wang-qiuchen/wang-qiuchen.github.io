@@ -46,7 +46,7 @@ Feng Zhao
 
 [[**Paper**]](https://arxiv.org/abs/2502.18017)&nbsp;
 [[**Code**]](https://github.com/Alibaba-NLP/ViDoRAG)&nbsp;
-[[**Code**]](https://huggingface.co/datasets/autumncc/ViDoSeek)
+[[**Dataset**]](https://huggingface.co/datasets/autumncc/ViDoSeek)
 
 </div>
 </div>

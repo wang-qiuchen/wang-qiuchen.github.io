@@ -45,8 +45,8 @@ Feng Zhao
 *Preprint*
 
 [[**Paper**]](https://arxiv.org/abs/2502.18017)&nbsp;
-[[**Code**]](https://github.com/Alibaba-NLP/ViDoRAG)&nbsp;
-[[**Dataset**]](https://huggingface.co/datasets/autumncc/ViDoSeek)
+[[**Dataset**]](https://huggingface.co/datasets/autumncc/ViDoSeek)&nbsp;
+[[**Code**]](https://github.com/Alibaba-NLP/ViDoRAG)[![GitHub stars](https://img.shields.io/github/stars/Alibaba-NLP/ViDoRAG?style=social)](https://github.com/Alibaba-NLP/ViDoRAG)
 
 </div>
 </div>
@@ -87,7 +87,7 @@ Zehui Chen\*, Kuikun Liu\*, **Qiuchen Wang**, Jiangning Liu, Wenwei Zhang, Kai C
 
 [[**Project**]](https://mindsearch.netlify.app/)&nbsp;
 [[**Paper**]](https://arxiv.org/abs/2407.20183)&nbsp;
-[[**Code**]](https://github.com/InternLM/MindSearch)[![GitHub stars](https://img.shields.io/github/stars/InternLM/MindSearch?style=social)](https://github.com/InternLM/MindSearch/stargazers)
+[[**Code**]](https://github.com/InternLM/MindSearch)[![GitHub stars](https://img.shields.io/github/stars/InternLM/MindSearch?style=social)](https://github.com/InternLM/MindSearch)
 
 
 </div>
@@ -106,7 +106,7 @@ Zehui Chen, Kuikun Liu, **Qiuchen Wang**, Wenwei Zhang, Jiangning Liu, Dahua Lin
 
 [[**Project**]](https://internlm.github.io/Agent-FLAN)&nbsp;
 [[**Paper**]](https://arxiv.org/abs/2403.12881)&nbsp;
-[[**Code**]](https://github.com/InternLM/Agent-FLAN)[![GitHub stars](https://img.shields.io/github/stars/InternLM/Agent-FLAN?style=social)](https://github.com/InternLM/Agent-FLAN/stargazers)
+[[**Code**]](https://github.com/InternLM/Agent-FLAN)[![GitHub stars](https://img.shields.io/github/stars/InternLM/Agent-FLAN?style=social)](https://github.com/InternLM/Agent-FLAN)
 
 </div>
 </div>

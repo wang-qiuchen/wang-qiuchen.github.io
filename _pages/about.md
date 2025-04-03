@@ -22,7 +22,7 @@ Hi! I’m Qiuchen Wang, a second year graduate student at University of Science 
 My research interest includes Large Language Models, Retrieval-augmented Generation, and Continual Learning. 
 
 # 🔥 News
-- **2025.3**: We released[ViDoRAG](https://github.com/Alibaba-NLP/ViDoRAG), a novel multi-agent RAG framework for visually rich documents.
+- **2025.3**: We released [ViDoRAG](https://github.com/Alibaba-NLP/ViDoRAG), a novel multi-agent RAG framework for visually rich documents and the ViDoSeek retrieval-reasoning dataset.
 - **2025.1**: Two paper got accepted to ICLR 2025
 - **2024.7**: We released [MindSearch(思·索)](https://mindsearch.netlify.app/), which is an awesome AI search engine comparable to Perplexity.ai Pro. Welcome to use and provide your feedback!
 - **2024.4**: One paper got accepted to ACL 2024

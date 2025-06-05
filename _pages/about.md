@@ -22,6 +22,7 @@ Hi! I’m Qiuchen Wang, a second year graduate student at University of Science 
 My research interest includes Large Language Models, Retrieval-augmented Generation, and Continual Learning. 
 
 # 🔥 News
+- **2025.6**: We released [VRAG-RL](https://github.com/Alibaba-NLP/VRAG), a purely visual RAG agent that enables VLMs to progressively gather information from a coarse-grained to a fine-grained perspective.
 - **2025.3**: We released [ViDoRAG](https://github.com/Alibaba-NLP/ViDoRAG), a novel multi-agent RAG framework for visually rich documents and the ViDoSeek retrieval-reasoning dataset.
 - **2025.1**: Two paper got accepted to ICLR 2025
 - **2024.7**: We released [MindSearch(思·索)](https://mindsearch.netlify.app/), which is an awesome AI search engine comparable to Perplexity.ai Pro. Welcome to use and provide your feedback!
@@ -29,6 +30,31 @@ My research interest includes Large Language Models, Retrieval-augmented Generat
 - **2024.3**: We released [Agent-FLAN](https://github.com/InternLM/Agent-FLAN), which explores the construction of high-quality agent corpus for LLMs.
 
 # 📝 Publications 
+<!-- vrag -->
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/vrag.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**VRAG-RL: Empower Vision-Perception-Based RAG for Visually Rich Information Understanding via Iterative Reasoning with Reinforcement Learning**
+
+**Qiuchen Wang**,
+Ruixue Ding,
+Yu Zeng,
+Zehui Chen,
+Lin Chen,
+Shihang Wang,
+Pengjun Xie,
+Fei Huang,
+Feng Zhao
+
+*Preprint*
+
+[[**Paper**]](https://arxiv.org/abs/2505.22019)&nbsp;
+[[**Models**]](https://huggingface.co/autumncc/Qwen2.5-VL-7B-VRAG)&nbsp;
+[[**Code**]](https://github.com/Alibaba-NLP/VRAG)[![GitHub stars](https://img.shields.io/github/stars/Alibaba-NLP/VRAG?style=social)](https://github.com/Alibaba-NLP/VRAG)
+
+</div>
+</div>
+<!-- vrag -->
+
 
 <!-- vidorag -->
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/vidorag.jpg' alt="sym" width="100%"></div></div>

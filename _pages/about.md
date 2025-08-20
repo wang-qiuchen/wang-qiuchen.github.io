@@ -50,7 +50,7 @@ Feng Zhao
 
 [[**Paper**]](https://arxiv.org/abs/2505.22019)&nbsp;
 [[**Models**]](https://huggingface.co/autumncc/Qwen2.5-VL-7B-VRAG)&nbsp;
-[[**Wechat**]](https://mp.weixin.qq.com/s/q3HD4xHK08-_fV_ovr_PpQ)
+[[**Wechat(机器之心)**]](https://mp.weixin.qq.com/s/q3HD4xHK08-_fV_ovr_PpQ)
 [[**Code**]](https://github.com/Alibaba-NLP/VRAG)[![GitHub stars](https://img.shields.io/github/stars/Alibaba-NLP/VRAG?style=social)](https://github.com/Alibaba-NLP/VRAG)
 
 </div>

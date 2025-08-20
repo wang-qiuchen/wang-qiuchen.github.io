@@ -22,6 +22,7 @@ Hi! I’m Qiuchen Wang, a second year graduate student at University of Science 
 My research interest includes Large Language Models, Retrieval-augmented Generation, and Continual Learning. 
 
 # 🔥 News
+- **2025.8**: One paper got accepted to EMNLP 2025
 - **2025.6**: We released [VRAG-RL](https://github.com/Alibaba-NLP/VRAG), a purely visual RAG agent that enables VLMs to progressively gather information from a coarse-grained to a fine-grained perspective.
 - **2025.3**: We released [ViDoRAG](https://github.com/Alibaba-NLP/ViDoRAG), a novel multi-agent RAG framework for visually rich documents and the ViDoSeek retrieval-reasoning dataset.
 - **2025.1**: Two paper got accepted to ICLR 2025
@@ -70,7 +71,7 @@ Shihang Wang,
 Pengjun Xie,
 Feng Zhao
 
-*Preprint*
+*Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2025*
 
 [[**Paper**]](https://arxiv.org/abs/2502.18017)&nbsp;
 [[**Dataset**]](https://huggingface.co/datasets/autumncc/ViDoSeek)&nbsp;

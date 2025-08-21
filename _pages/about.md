@@ -71,7 +71,7 @@ Shihang Wang,
 Pengjun Xie,
 Feng Zhao
 
-*Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2025*
+*Conference on Empirical Methods in Natural Language Processing (**EMNLP Main**), 2025*
 
 [[**Paper**]](https://arxiv.org/abs/2502.18017)&nbsp;
 [[**Dataset**]](https://huggingface.co/datasets/autumncc/ViDoSeek)&nbsp;

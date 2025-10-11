@@ -160,7 +160,7 @@ Kou Shi, Ziao Zhang, Shiting Huang, Avery Nie, Zhen Fang, **Qiuchen Wang**, Lin 
 
 Yu Zeng, Wenxuan Huang, Shiting Huang, Xikun Bao, Yukun Qi, Yiming Zhao, **Qiuchen Wang**, Lin Chen, Zehui Chen, Huaian Chen, Wanli Ouyang, Feng Zhao 
 
-[[**Project**]](https://internlm.github.io/Agent-FLAN)&nbsp;
+[[**Project**]](https://yuzeng0-0.github.io/AGILE/)&nbsp;
 [[**Paper**]](https://arxiv.org/abs/2510.01304)&nbsp;
 [[**Code**]](https://github.com/yuzeng0-0/AGILE)[![GitHub stars](https://img.shields.io/github/stars/yuzeng0-0/AGILE?style=social)](https://github.com/yuzeng0-0/AGILE)
 
@@ -171,7 +171,7 @@ Yu Zeng, Wenxuan Huang, Shiting Huang, Xikun Bao, Yukun Qi, Yiming Zhao, **Qiuch
 
 Xinyu Geng, Peng Xia, Zhen Zhang, Xinyu Wang, **Qiuchen Wang**, Ruixue Ding, Chenxi Wang, Jialong Wu, Kuan Li, Yida Zhao, Huifeng Yin, Yong Jiang, Pengjun Xie, Fei Huang, Huaxiu Yao, Yi R. Fung, Jingren Zhou
 
-[[**Project**]](https://github.com/Alibaba-NLP/DeepResearch)&nbsp;
+[[**Project**]](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/)&nbsp;
 [[**Paper**]](https://arxiv.org/abs/2508.05748)&nbsp;
 [[**Code**]](https://github.com/Alibaba-NLP/DeepResearch)[![GitHub stars](https://img.shields.io/github/stars/Alibaba-NLP/DeepResearch?style=social)](https://github.com/Alibaba-NLP/DeepResearch)
 

@@ -142,6 +142,19 @@ Zehui Chen, Kuikun Liu, **Qiuchen Wang**, Wenwei Zhang, Jiangning Liu, Dahua Lin
 </div>
 <!-- agentflan -->
 
+## *Preprint*
+
+<div class='paper-box-text' markdown="1">
+**AsyncTool: Evaluating the Asynchronous Function Calling Capability under Multi-Task Scenarios**
+
+Kou Shi, Ziao Zhang, Shiting Huang, Avery Nie, Zhen Fang, **Qiuchen Wang**, Lin Chen, Huaian Chen, Zehui Chen, Feng Zhao
+
+<!-- [[**Project**]](https://internlm.github.io/Agent-FLAN)&nbsp;
+[[**Paper**]](https://arxiv.org/abs/2403.12881)&nbsp;
+[[**Code**]](https://github.com/InternLM/Agent-FLAN)[![GitHub stars](https://img.shields.io/github/stars/InternLM/Agent-FLAN?style=social)](https://github.com/InternLM/Agent-FLAN) -->
+
+</div>
+
 # 🎖 Awards
 - $1^{st}$ place at VCL2023 Challenge, Multitask Learning for Robustness Track! (**ICCV 2023** Workshop)
 - Outstanding Graduates of Huazhong University of Science and Technology, 2023.

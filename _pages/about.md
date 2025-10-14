@@ -47,7 +47,7 @@ Pengjun Xie,
 Fei Huang,
 Feng Zhao
 
-*Preprint*
+*The Thirty-Ninth Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025*
 
 [[**Paper**]](https://arxiv.org/abs/2505.22019)&nbsp;
 [[**Models**]](https://huggingface.co/autumncc/Qwen2.5-VL-7B-VRAG)&nbsp;

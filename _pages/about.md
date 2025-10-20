@@ -178,6 +178,7 @@ Xinyu Geng, Peng Xia, Zhen Zhang, Xinyu Wang, **Qiuchen Wang**, Ruixue Ding, Che
 </div>
 
 # 🎖 Awards
+- National Scholarship, 2025.
 - $1^{st}$ place at VCL2023 Challenge, Multitask Learning for Robustness Track! (**ICCV 2023** Workshop)
 - Outstanding Graduates of Huazhong University of Science and Technology, 2023.
 - Merit Student of Huazhong University of Science and Technology, 2021, 2022.

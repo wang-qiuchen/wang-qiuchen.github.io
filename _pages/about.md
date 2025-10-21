@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I’m Qiuchen Wang, a third year graduate student at University of Science and Technology of China. I am co-supervised by Prof. [Feng Zhao](https://en.auto.ustc.edu.cn/2021/0616/c26828a513169/page.htm) and Prof. [Feng Wu](https://scholar.google.com/citations?user=5bInRDEAAAAJ). Previously, I obtained my B.Eng. degree in Electronic Information and Communications of Huazhong University of Science and Technology, under the guidance of Prof. [Xinge You](https://bmal.hust.edu.cn/EN.htm).
+Hi! I’m Qiuchen Wang, a final year graduate student at University of Science and Technology of China. I am co-supervised by Prof. [Feng Zhao](https://en.auto.ustc.edu.cn/2021/0616/c26828a513169/page.htm) and Prof. [Feng Wu](https://scholar.google.com/citations?user=5bInRDEAAAAJ). Previously, I obtained my B.Eng. degree in Electronic Information and Communications of Huazhong University of Science and Technology, under the guidance of Prof. [Xinge You](https://bmal.hust.edu.cn/EN.htm).
 
 My research interest includes Large Language Models, Retrieval-augmented Generation, and Continual Learning. 
 

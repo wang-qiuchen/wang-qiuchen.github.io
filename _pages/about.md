@@ -146,10 +146,10 @@ Zehui Chen, Kuikun Liu, **Qiuchen Wang**, Wenwei Zhang, Jiangning Liu, Dahua Lin
 
 <div class='paper-box-text' markdown="1">
 **ArenaRL: Scaling RL for Open-Ended Agents via Tournament-based Relative Ranking** 
-  
-Qiang Zhang, Boli Chen, Fanrui Zhang, Ruixue Ding, Shihang Wang, **Qiuchen Wang**, Yinfeng Huang, Haonan Zhang, Rongxiang Zhu, Pengyong Wang, Ailin Ren, Xin Li, Pengjun Xie, Jiawei Liu, Ning Guo, Jingren Zhou, Zheng-Jun Zha
 
 **🌟 This project has already been commercially deployed in Amap(Gaode Map, Xiaogao Teacher) with hundreds of millions of users.**
+
+Qiang Zhang, Boli Chen, Fanrui Zhang, Ruixue Ding, Shihang Wang, **Qiuchen Wang**, Yinfeng Huang, Haonan Zhang, Rongxiang Zhu, Pengyong Wang, Ailin Ren, Xin Li, Pengjun Xie, Jiawei Liu, Ning Guo, Jingren Zhou, Zheng-Jun Zha
 
 <!-- [[**Project**]]()&nbsp; -->
 [[**Paper**]](https://arxiv.org/abs/2601.06487)&nbsp;

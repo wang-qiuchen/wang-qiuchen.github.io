@@ -151,7 +151,7 @@ Zehui Chen, Kuikun Liu, **Qiuchen Wang**, Wenwei Zhang, Jiangning Liu, Dahua Lin
 
 Qiang Zhang, Boli Chen, Fanrui Zhang, Ruixue Ding, Shihang Wang, **Qiuchen Wang**, Yinfeng Huang, Haonan Zhang, Rongxiang Zhu, Pengyong Wang, Ailin Ren, Xin Li, Pengjun Xie, Jiawei Liu, Ning Guo, Jingren Zhou, Zheng-Jun Zha
 
-<!-- [[**Project**]]()&nbsp; -->
+[[**Project**]](https://tongyi-agent.github.io/blog/arenarl)&nbsp;
 [[**Paper**]](https://arxiv.org/abs/2601.06487)&nbsp;
 [[**Code**]](https://github.com/Alibaba-NLP/qqr)[![GitHub stars](https://img.shields.io/github/stars/Alibaba-NLP/qqr?style=social)](https://github.com/Alibaba-NLP/qqr)
 </div>

@@ -145,6 +145,29 @@ Zehui Chen, Kuikun Liu, **Qiuchen Wang**, Wenwei Zhang, Jiangning Liu, Dahua Lin
 ## *Preprint*
 
 <div class='paper-box-text' markdown="1">
+**ArenaRL: Scaling RL for Open-Ended Agents via Tournament-based Relative Ranking** 
+  
+Qiang Zhang, Boli Chen, Fanrui Zhang, Ruixue Ding, Shihang Wang, **Qiuchen Wang**, Yinfeng Huang, Haonan Zhang, Rongxiang Zhu, Pengyong Wang, Ailin Ren, Xin Li, Pengjun Xie, Jiawei Liu, Ning Guo, Jingren Zhou, Zheng-Jun Zha
+
+**🌟 This project has already been commercially deployed in Amap(Gaode Map, Xiaogao Teacher) with hundreds of millions of users.**
+
+<!-- [[**Project**]]()&nbsp; -->
+[[**Paper**]](https://arxiv.org/abs/2601.06487)&nbsp;
+[[**Code**]](https://github.com/Alibaba-NLP/qqr)[![GitHub stars](https://img.shields.io/github/stars/Alibaba-NLP/qqr?style=social)](https://github.com/Alibaba-NLP/qqr)
+</div>
+
+
+<div class='paper-box-text' markdown="1">
+**WebWatcher: Breaking New Frontiers of Vision-Language Deep Research Agent**
+
+Xinyu Geng, Peng Xia, Zhen Zhang, Xinyu Wang, **Qiuchen Wang**, Ruixue Ding, Chenxi Wang, Jialong Wu, Kuan Li, Yida Zhao, Huifeng Yin, Yong Jiang, Pengjun Xie, Fei Huang, Huaxiu Yao, Yi R. Fung, Jingren Zhou
+
+[[**Project**]](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/)&nbsp;
+[[**Paper**]](https://arxiv.org/abs/2508.05748)&nbsp;
+[[**Code**]](https://github.com/Alibaba-NLP/DeepResearch)[![GitHub stars](https://img.shields.io/github/stars/Alibaba-NLP/DeepResearch?style=social)](https://github.com/Alibaba-NLP/DeepResearch)
+</div>
+
+<div class='paper-box-text' markdown="1">
 **AsyncTool: Evaluating the Asynchronous Function Calling Capability under Multi-Task Scenarios**
 
 Kou Shi, Ziao Zhang, Shiting Huang, Avery Nie, Zhen Fang, **Qiuchen Wang**, Lin Chen, Huaian Chen, Zehui Chen, Feng Zhao
@@ -163,17 +186,6 @@ Yu Zeng, Wenxuan Huang, Shiting Huang, Xikun Bao, Yukun Qi, Yiming Zhao, **Qiuch
 [[**Project**]](https://yuzeng0-0.github.io/AGILE/)&nbsp;
 [[**Paper**]](https://arxiv.org/abs/2510.01304)&nbsp;
 [[**Code**]](https://github.com/yuzeng0-0/AGILE)[![GitHub stars](https://img.shields.io/github/stars/yuzeng0-0/AGILE?style=social)](https://github.com/yuzeng0-0/AGILE)
-
-</div>
-
-<div class='paper-box-text' markdown="1">
-**WebWatcher: Breaking New Frontiers of Vision-Language Deep Research Agent**
-
-Xinyu Geng, Peng Xia, Zhen Zhang, Xinyu Wang, **Qiuchen Wang**, Ruixue Ding, Chenxi Wang, Jialong Wu, Kuan Li, Yida Zhao, Huifeng Yin, Yong Jiang, Pengjun Xie, Fei Huang, Huaxiu Yao, Yi R. Fung, Jingren Zhou
-
-[[**Project**]](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/)&nbsp;
-[[**Paper**]](https://arxiv.org/abs/2508.05748)&nbsp;
-[[**Code**]](https://github.com/Alibaba-NLP/DeepResearch)[![GitHub stars](https://img.shields.io/github/stars/Alibaba-NLP/DeepResearch?style=social)](https://github.com/Alibaba-NLP/DeepResearch)
 
 </div>
 

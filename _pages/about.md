@@ -19,9 +19,10 @@ redirect_from:
 
 Hi! I’m Qiuchen Wang, a final year graduate student at University of Science and Technology of China. I am co-supervised by Prof. [Feng Zhao](https://en.auto.ustc.edu.cn/2021/0616/c26828a513169/page.htm) and Prof. [Feng Wu](https://scholar.google.com/citations?user=5bInRDEAAAAJ). Previously, I obtained my B.Eng. degree in Electronic Information and Communications of Huazhong University of Science and Technology, under the guidance of Prof. [Xinge You](https://bmal.hust.edu.cn/EN.htm).
 
-My research interest includes Large Language Models, Retrieval-augmented Generation, and Continual Learning. 
+My research interest includes Multi-modal Large Language Models, Multi-modal Agent & Reinforcement Learning, Retrieval-augmented Generation, and Continual Learning. 
 
 # 🔥 News
+- **2026.1**: Two papers got accepted to ICLR 2026
 - **2025.9**: One paper got accepted to NeurIPS 2025
 - **2025.8**: One paper got accepted to EMNLP 2025
 - **2025.6**: We released [VRAG-RL](https://github.com/Alibaba-NLP/VRAG), a purely visual RAG agent that enables VLMs to progressively gather information from a coarse-grained to a fine-grained perspective.

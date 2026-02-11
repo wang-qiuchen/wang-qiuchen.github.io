@@ -143,6 +143,34 @@ Zehui Chen, Kuikun Liu, **Qiuchen Wang**, Wenwei Zhang, Jiangning Liu, Dahua Lin
 </div>
 <!-- agentflan -->
 
+
+<div class='paper-box-text' markdown="1">
+**WebWatcher: Breaking New Frontiers of Vision-Language Deep Research Agent**
+
+Xinyu Geng, Peng Xia, Zhen Zhang, Xinyu Wang, **Qiuchen Wang**, Ruixue Ding, Chenxi Wang, Jialong Wu, Kuan Li, Yida Zhao, Huifeng Yin, Yong Jiang, Pengjun Xie, Fei Huang, Huaxiu Yao, Yi R. Fung, Jingren Zhou
+
+*The Fourteenth International Conference on Learning Representations (**ICLR**), 2026*
+
+[[**Project**]](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/)&nbsp;
+[[**Paper**]](https://arxiv.org/abs/2508.05748)&nbsp;
+[[**Code**]](https://github.com/Alibaba-NLP/DeepResearch)[![GitHub stars](https://img.shields.io/github/stars/Alibaba-NLP/DeepResearch?style=social)](https://github.com/Alibaba-NLP/DeepResearch)
+</div>
+
+
+<div class='paper-box-text' markdown="1">
+**Agentic Jigsaw Interaction Learning for Enhancing Visual Perception and Reasoning in Vision-Language Models**
+
+Yu Zeng, Wenxuan Huang, Shiting Huang, Xikun Bao, Yukun Qi, Yiming Zhao, **Qiuchen Wang**, Lin Chen, Zehui Chen, Huaian Chen, Wanli Ouyang, Feng Zhao 
+
+*The Fourteenth International Conference on Learning Representations (**ICLR**), 2026*
+
+[[**Project**]](https://yuzeng0-0.github.io/AGILE/)&nbsp;
+[[**Paper**]](https://arxiv.org/abs/2510.01304)&nbsp;
+[[**Code**]](https://github.com/yuzeng0-0/AGILE)[![GitHub stars](https://img.shields.io/github/stars/yuzeng0-0/AGILE?style=social)](https://github.com/yuzeng0-0/AGILE)
+</div>
+
+
+
 ## *Preprint*
 
 <div class='paper-box-text' markdown="1">
@@ -158,15 +186,7 @@ Qiang Zhang, Boli Chen, Fanrui Zhang, Ruixue Ding, Shihang Wang, **Qiuchen Wang*
 </div>
 
 
-<div class='paper-box-text' markdown="1">
-**WebWatcher: Breaking New Frontiers of Vision-Language Deep Research Agent**
 
-Xinyu Geng, Peng Xia, Zhen Zhang, Xinyu Wang, **Qiuchen Wang**, Ruixue Ding, Chenxi Wang, Jialong Wu, Kuan Li, Yida Zhao, Huifeng Yin, Yong Jiang, Pengjun Xie, Fei Huang, Huaxiu Yao, Yi R. Fung, Jingren Zhou
-
-[[**Project**]](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/)&nbsp;
-[[**Paper**]](https://arxiv.org/abs/2508.05748)&nbsp;
-[[**Code**]](https://github.com/Alibaba-NLP/DeepResearch)[![GitHub stars](https://img.shields.io/github/stars/Alibaba-NLP/DeepResearch?style=social)](https://github.com/Alibaba-NLP/DeepResearch)
-</div>
 
 <div class='paper-box-text' markdown="1">
 **AsyncTool: Evaluating the Asynchronous Function Calling Capability under Multi-Task Scenarios**
@@ -179,16 +199,7 @@ Kou Shi, Ziao Zhang, Shiting Huang, Avery Nie, Zhen Fang, **Qiuchen Wang**, Lin 
 
 </div>
 
-<div class='paper-box-text' markdown="1">
-**Agentic Jigsaw Interaction Learning for Enhancing Visual Perception and Reasoning in Vision-Language Models**
 
-Yu Zeng, Wenxuan Huang, Shiting Huang, Xikun Bao, Yukun Qi, Yiming Zhao, **Qiuchen Wang**, Lin Chen, Zehui Chen, Huaian Chen, Wanli Ouyang, Feng Zhao 
-
-[[**Project**]](https://yuzeng0-0.github.io/AGILE/)&nbsp;
-[[**Paper**]](https://arxiv.org/abs/2510.01304)&nbsp;
-[[**Code**]](https://github.com/yuzeng0-0/AGILE)[![GitHub stars](https://img.shields.io/github/stars/yuzeng0-0/AGILE?style=social)](https://github.com/yuzeng0-0/AGILE)
-
-</div>
 
 # 🎖 Awards
 - National Scholarship, 2025.

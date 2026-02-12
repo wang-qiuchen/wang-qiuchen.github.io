@@ -27,12 +27,49 @@ My research interest includes Multi-modal Large Language Models, Multi-modal Age
 - **2025.8**: One paper got accepted to EMNLP 2025
 - **2025.6**: We released [VRAG-RL](https://github.com/Alibaba-NLP/VRAG), a purely visual RAG agent that enables VLMs to progressively gather information from a coarse-grained to a fine-grained perspective.
 - **2025.3**: We released [ViDoRAG](https://github.com/Alibaba-NLP/ViDoRAG), a novel multi-agent RAG framework for visually rich documents and the ViDoSeek retrieval-reasoning dataset.
-- **2025.1**: Two paper got accepted to ICLR 2025
+- **2025.1**: Two papers got accepted to ICLR 2025
 - **2024.7**: We released [MindSearch(思·索)](https://mindsearch.netlify.app/), which is an awesome AI search engine comparable to Perplexity.ai Pro. Welcome to use and provide your feedback!
 - **2024.4**: One paper got accepted to ACL 2024
 - **2024.3**: We released [Agent-FLAN](https://github.com/InternLM/Agent-FLAN), which explores the construction of high-quality agent corpus for LLMs.
 
 # 📝 Publications 
+
+<!-- vimrag -->
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/vimrag.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**VimRAG: Navigating Massive Visual Context in Retrieval-Augmented Generation via Multimodal Memory Graph**
+
+**Qiuchen Wang**, Shihang Wang, etc.
+
+*The work done at Tongyi Lab, Alibaba Group. The training code is currently under review by the company.*
+
+[[**Paper**]]()&nbsp;
+[[**Code**]](https://github.com/Alibaba-NLP/VRAG)[![GitHub stars](https://img.shields.io/github/stars/Alibaba-NLP/VRAG?style=social)](https://github.com/Alibaba-NLP/VRAG)
+<!-- [[**Models**]](https://huggingface.co/autumncc/Qwen2.5-VL-7B-VRAG)&nbsp;
+[[**Wechat(机器之心)**]](https://mp.weixin.qq.com/s/q3HD4xHK08-_fV_ovr_PpQ) -->
+
+</div>
+</div>
+<!-- vimrag -->
+
+<!-- vdr -->
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/vdr.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models**
+
+Wenxuan Huang*, Yu Zeng*, **Qiuchen Wang**\*, Zhen Fang, Shaosheng Cao, Zheng Chu, Qingyu Yin, Shuang Chen, Zhenfei Yin, Lin Chen, Zehui Chen, Yao Hu, Philip Torr, Feng Zhao, Wanli Ouyang
+
+*The first open-sourced long-horizon multimodal deep-research. Work as co-first author.*
+
+[[**Paper**]](https://arxiv.org/abs/2601.22060)&nbsp;
+[[**Project**]](https://osilly.github.io/Vision-DeepResearch/)&nbsp;
+[[**Code&Data&Models**]](https://github.com/Osilly/Vision-DeepResearch)[![GitHub stars](https://img.shields.io/github/stars/Osilly/Vision-DeepResearch?style=social)](https://github.com/Osilly/Vision-DeepResearch)
+
+</div>
+</div>
+<!-- vdr -->
+
+
 <!-- vrag -->
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/vrag.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

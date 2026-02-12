@@ -57,9 +57,9 @@ My research interest includes Multi-modal Large Language Models, Multi-modal Age
 <div class='paper-box-text' markdown="1">
 **Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models**
 
-Wenxuan Huang*, Yu Zeng*, **Qiuchen Wang**\*, Zhen Fang, Shaosheng Cao, Zheng Chu, Qingyu Yin, Shuang Chen, Zhenfei Yin, Lin Chen, Zehui Chen, Yao Hu, Philip Torr, Feng Zhao, Wanli Ouyang
+Wenxuan Huang\*, Yu Zeng\*, **Qiuchen Wang**\*, Zhen Fang, Shaosheng Cao, Zheng Chu, Qingyu Yin, Shuang Chen, Zhenfei Yin, Lin Chen, Zehui Chen, Yao Hu, Philip Torr, Feng Zhao, Wanli Ouyang
 
-*The first open-sourced long-horizon multimodal deep-research. Work as co-first author.*
+*Work as co-first author. The first open-sourced long-horizon multimodal deep-research.*
 
 [[**Paper**]](https://arxiv.org/abs/2601.22060)&nbsp;
 [[**Project**]](https://osilly.github.io/Vision-DeepResearch/)&nbsp;

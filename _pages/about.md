@@ -39,7 +39,7 @@ My research interest includes Multi-modal Large Language Models, Multi-modal Age
 <div class='paper-box-text' markdown="1">
 **VimRAG: Navigating Massive Visual Context in Retrieval-Augmented Generation via Multimodal Memory Graph**
 
-**Qiuchen Wang**, Shihang Wang, etc.
+**Qiuchen Wang**, Shihang Wang, Yu Zeng, Qiang Zhang, Fanrui Zhang, Zhuoning Guo, Bosi Zhang, Wenxuan Huang, Lin Chen, Zehui Chen, Pengjun Xie, Ruixue Ding, Feng Zhao
 
 *The work done at Tongyi Lab, Alibaba Group. The training code is currently under review by the company.*
 

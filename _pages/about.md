@@ -249,10 +249,12 @@ Kou Shi, Ziao Zhang, Shiting Huang, Avery Nie, Zhen Fang, **Qiuchen Wang**, Lin 
 - *2023.09 - present*, M.E. at University of Science and Technology of China. 
 - *2019.09 - 2023.06*, B.E. in Electronic Information and Communications of Huazhong University of Science and Technology. 
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
 # 💻 Internships
 - *2024.08 - present*, LLM Research Intern, Qwen RAG Group at Alibaba-inc, Hangzhou, China.
 - *2023.03 - 2023.06*, Autonomous Driving Intern, iMotion, Suzhou, China.
+
+# 💬 Academic Services
+- **Journal Reviewer**: TPAMI, TMM
+- **Conference Reviewer**: ICML 2026, ICLR 2026, NeurIPS 2025, ARR 2025
+
+

@@ -35,7 +35,7 @@ My research interest includes Multi-modal Large Language Models, Multi-modal Age
 # 📝 Publications 
 
 <!-- vimrag -->
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/vimrag.jpg' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><img src='../images/vimrag.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **VimRAG: Navigating Massive Visual Context in Retrieval-Augmented Generation via Multimodal Memory Graph**
 
@@ -44,12 +44,12 @@ My research interest includes Multi-modal Large Language Models, Multi-modal Age
 *The work done at Tongyi Lab, Alibaba Group. The training code is currently under review by the company.*
 
 [[**Paper**]](https://arxiv.org/pdf/2602.12735v1)&nbsp;
-[[**Code**]](https://github.com/Alibaba-NLP/VRAG)[![GitHub stars](https://img.shields.io/github/stars/Alibaba-NLP/VRAG?style=social)](https://github.com/Alibaba-NLP/VRAG)
+[[**Code**]](https://github.com/Alibaba-NLP/VRAG)[![GitHub stars](https://img.shields.io/github/stars/Alibaba-NLP/VRAG?style=social)](https://github.com/Alibaba-NLP/VRAG) -->
 <!-- [[**Models**]](https://huggingface.co/autumncc/Qwen2.5-VL-7B-VRAG)&nbsp;
 [[**Wechat(机器之心)**]](https://mp.weixin.qq.com/s/q3HD4xHK08-_fV_ovr_PpQ) -->
 
-</div>
-</div>
+<!-- </div> -->
+<!-- </div> -->
 <!-- vimrag -->
 
 <!-- vdr -->

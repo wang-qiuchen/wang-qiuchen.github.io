@@ -131,7 +131,7 @@ Feng Zhao
 **Qiuchen Wang**,
 Zehui Chen,
 Chenhongyi Yang,
-JIaming Liu,
+Jiaming Liu,
 Zhenyu Li,
 Feng Zhao
 
@@ -184,7 +184,8 @@ Zehui Chen, Kuikun Liu, **Qiuchen Wang**, Wenwei Zhang, Jiangning Liu, Dahua Lin
 <div class='paper-box-text' markdown="1">
 **WebWatcher: Breaking New Frontiers of Vision-Language Deep Research Agent**
 
-Xinyu Geng, Peng Xia, Zhen Zhang, Xinyu Wang, **Qiuchen Wang**, Ruixue Ding, Chenxi Wang, Jialong Wu, Kuan Li, Yida Zhao, Huifeng Yin, Yong Jiang, Pengjun Xie, Fei Huang, Huaxiu Yao, Yi R. Fung, Jingren Zhou
+Xinyu Geng, Peng Xia, Zhen Zhang, Xinyu Wang, **Qiuchen Wang**, etc.
+<!-- Ruixue Ding, Chenxi Wang, Jialong Wu, Kuan Li, Yida Zhao, Huifeng Yin, Yong Jiang, Pengjun Xie, Fei Huang, Huaxiu Yao, Yi R. Fung, Jingren Zhou -->
 
 *The Fourteenth International Conference on Learning Representations (**ICLR**), 2026*
 
@@ -197,7 +198,7 @@ Xinyu Geng, Peng Xia, Zhen Zhang, Xinyu Wang, **Qiuchen Wang**, Ruixue Ding, Che
 <div class='paper-box-text' markdown="1">
 **Agentic Jigsaw Interaction Learning for Enhancing Visual Perception and Reasoning in Vision-Language Models**
 
-Yu Zeng, Wenxuan Huang, Shiting Huang, Xikun Bao, Yukun Qi, Yiming Zhao, **Qiuchen Wang**, Lin Chen, Zehui Chen, Huaian Chen, Wanli Ouyang, Feng Zhao 
+Yu Zeng, Wenxuan Huang, Shiting Huang, Xikun Bao, Yukun Qi, Yiming Zhao, **Qiuchen Wang**, etc.
 
 *The Fourteenth International Conference on Learning Representations (**ICLR**), 2026*
 

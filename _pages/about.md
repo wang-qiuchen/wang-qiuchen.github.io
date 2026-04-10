@@ -63,7 +63,7 @@ Wenxuan Huang\*, Yu Zeng\*, **Qiuchen Wang**\*, Zhen Fang, Shaosheng Cao, Zheng 
 
 [[**Paper**]](https://arxiv.org/abs/2601.22060)&nbsp;
 [[**Project**]](https://osilly.github.io/Vision-DeepResearch/)&nbsp;
-[[**Wechat(机器之心)**]](https://mp.weixin.qq.com/s/E3chyoaLVtaMI1MAL6zAhA)
+[[**Wechat(机器之心)**]](https://mp.weixin.qq.com/s/E3chyoaLVtaMI1MAL6zAhA)&nbsp;
 [[**Code&Data&Models**]](https://github.com/Osilly/Vision-DeepResearch)[![GitHub stars](https://img.shields.io/github/stars/Osilly/Vision-DeepResearch?style=social)](https://github.com/Osilly/Vision-DeepResearch)
 
 </div>

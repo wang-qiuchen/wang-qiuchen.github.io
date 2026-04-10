@@ -44,9 +44,9 @@ My research interest includes Multi-modal Large Language Models, Multi-modal Age
 *The work done at Tongyi Lab, Alibaba Group. The training code is currently under review by the company.*
 
 [[**Paper**]](https://arxiv.org/pdf/2602.12735v1)&nbsp;
-[[**Code**]](https://github.com/Alibaba-NLP/VRAG)[![GitHub stars](https://img.shields.io/github/stars/Alibaba-NLP/VRAG?style=social)](https://github.com/Alibaba-NLP/VRAG)
 [[**HuggingFace**]](https://huggingface.co/collections/Alibaba-NLP/vrag)&nbsp;
-[[**Wechat(通义实验室)**]](https://mp.weixin.qq.com/s/VyE8ayVY2DI5UYzliWp7aA)
+[[**Wechat(通义实验室)**]](https://mp.weixin.qq.com/s/VyE8ayVY2DI5UYzliWp7aA)&nbsp;
+[[**Code**]](https://github.com/Alibaba-NLP/VRAG)[![GitHub stars](https://img.shields.io/github/stars/Alibaba-NLP/VRAG?style=social)](https://github.com/Alibaba-NLP/VRAG)
 
 </div>
 </div>
@@ -63,6 +63,7 @@ Wenxuan Huang\*, Yu Zeng\*, **Qiuchen Wang**\*, Zhen Fang, Shaosheng Cao, Zheng 
 
 [[**Paper**]](https://arxiv.org/abs/2601.22060)&nbsp;
 [[**Project**]](https://osilly.github.io/Vision-DeepResearch/)&nbsp;
+[[**Wechat(机器之心)**]](https://mp.weixin.qq.com/s/E3chyoaLVtaMI1MAL6zAhA)
 [[**Code&Data&Models**]](https://github.com/Osilly/Vision-DeepResearch)[![GitHub stars](https://img.shields.io/github/stars/Osilly/Vision-DeepResearch?style=social)](https://github.com/Osilly/Vision-DeepResearch)
 
 </div>

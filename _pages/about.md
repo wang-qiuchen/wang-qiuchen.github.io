@@ -156,6 +156,8 @@ Zehui Chen\*, Kuikun Liu\*, **Qiuchen Wang**, Jiangning Liu, Wenwei Zhang, Kai C
 
 [[**Project**]](https://mindsearch.netlify.app/)&nbsp;
 [[**Paper**]](https://arxiv.org/abs/2407.20183)&nbsp;
+[[**Wechat(机器之心)**]](https://mp.weixin.qq.com/s/Y8IWzMfsIJdNVI-7iiyusQ)&nbsp;
+[[**InternLM(产品体验)**]](https://chat.intern-ai.org.cn/)&nbsp;
 [[**Code**]](https://github.com/InternLM/MindSearch)[![GitHub stars](https://img.shields.io/github/stars/InternLM/MindSearch?style=social)](https://github.com/InternLM/MindSearch)
 
 
@@ -192,6 +194,7 @@ Xinyu Geng, Peng Xia, Zhen Zhang, Xinyu Wang, **Qiuchen Wang**, etc.
 
 [[**Project**]](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/)&nbsp;
 [[**Paper**]](https://arxiv.org/abs/2508.05748)&nbsp;
+[[**Wechat(量子位)**]](https://mp.weixin.qq.com/s/3gzb5QcJ8AO-1EDeECUFlQ)&nbsp;
 [[**Code**]](https://github.com/Alibaba-NLP/DeepResearch)[![GitHub stars](https://img.shields.io/github/stars/Alibaba-NLP/DeepResearch?style=social)](https://github.com/Alibaba-NLP/DeepResearch)
 </div>
 
@@ -205,6 +208,7 @@ Yu Zeng, Wenxuan Huang, Shiting Huang, Xikun Bao, Yukun Qi, Yiming Zhao, **Qiuch
 
 [[**Project**]](https://yuzeng0-0.github.io/AGILE/)&nbsp;
 [[**Paper**]](https://arxiv.org/abs/2510.01304)&nbsp;
+[[**Wechat(机器之心)**]](https://mp.weixin.qq.com/s/z9YFy6sF6w5CenLwN_E3JA)&nbsp;
 [[**Code**]](https://github.com/yuzeng0-0/AGILE)[![GitHub stars](https://img.shields.io/github/stars/yuzeng0-0/AGILE?style=social)](https://github.com/yuzeng0-0/AGILE)
 </div>
 
@@ -221,9 +225,9 @@ Qiang Zhang, Boli Chen, Fanrui Zhang, Ruixue Ding, Shihang Wang, **Qiuchen Wang*
 
 [[**Project**]](https://tongyi-agent.github.io/blog/arenarl)&nbsp;
 [[**Paper**]](https://arxiv.org/abs/2601.06487)&nbsp;
+[[**Wechat(通义实验室)**]](https://mp.weixin.qq.com/s/A5rw5CXZiXpx-2aLi_80wg)&nbsp;
 [[**Code**]](https://github.com/Alibaba-NLP/qqr)[![GitHub stars](https://img.shields.io/github/stars/Alibaba-NLP/qqr?style=social)](https://github.com/Alibaba-NLP/qqr)
 </div>
-
 
 
 

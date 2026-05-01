@@ -22,6 +22,7 @@ Hi! I’m Qiuchen Wang, a final year graduate student at University of Science a
 My research interest includes Multi-modal Large Language Models, Multi-modal Agents, and Reinforcement Learning.
 
 # 🔥 News
+- **2026.5**: Three papers got accepted to ICML 2026
 - **2026.1**: Two papers got accepted to ICLR 2026
 - **2025.9**: One paper got accepted to NeurIPS 2025
 - **2025.8**: One paper got accepted to EMNLP 2025
@@ -41,7 +42,9 @@ My research interest includes Multi-modal Large Language Models, Multi-modal Age
 
 **Qiuchen Wang**, Shihang Wang, Yu Zeng, Qiang Zhang, Fanrui Zhang, Zhuoning Guo, Bosi Zhang, Wenxuan Huang, Lin Chen, Zehui Chen, Pengjun Xie, Ruixue Ding, Feng Zhao
 
-*The work done at Tongyi Lab, Alibaba Group. The training code is currently under review by the company.*
+*International Conference on Machine Learning (ICML), 2026*
+
+*The work done at Tongyi Lab, Alibaba Group, the training code is currently under review by the company.*
 
 [[**Paper**]](https://arxiv.org/pdf/2602.12735v1)&nbsp;
 [[**HuggingFace**]](https://huggingface.co/collections/Alibaba-NLP/vrag)&nbsp;
@@ -58,6 +61,8 @@ My research interest includes Multi-modal Large Language Models, Multi-modal Age
 **Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models**
 
 Wenxuan Huang\*, Yu Zeng\*, **Qiuchen Wang**\*, Zhen Fang, Shaosheng Cao, Zheng Chu, Qingyu Yin, Shuang Chen, Zhenfei Yin, Lin Chen, Zehui Chen, Yao Hu, Philip Torr, Feng Zhao, Wanli Ouyang
+
+*International Conference on Machine Learning (ICML), 2026*
 
 *Work as co-first author. The first open-sourced long-horizon multimodal deep-research.*
 
@@ -218,6 +223,8 @@ Yu Zeng, Wenxuan Huang, Shiting Huang, Xikun Bao, Yukun Qi, Yiming Zhao, **Qiuch
 
 <div class='paper-box-text' markdown="1">
 **ArenaRL: Scaling RL for Open-Ended Agents via Tournament-based Relative Ranking** 
+
+*International Conference on Machine Learning (ICML), 2026*
 
 **🌟 This project has already been commercially deployed in Amap(Gaode Map, Xiaogao Teacher) with hundreds of millions of users.**
 

@@ -44,7 +44,7 @@ My research interest includes Multi-modal Large Language Models, Multi-modal Age
 
 *International Conference on Machine Learning (ICML), 2026*
 
-*The work done at Tongyi Lab, Alibaba Group, the training code is currently under review by the company.*
+<!-- *The work done at Tongyi Lab, Alibaba Group, the training code is currently under review by the company.* -->
 
 [[**Paper**]](https://arxiv.org/pdf/2602.12735v1)&nbsp;
 [[**HuggingFace**]](https://huggingface.co/collections/Alibaba-NLP/vrag)&nbsp;

@@ -22,8 +22,6 @@ Hi! I’m Qiuchen Wang, a Ph.D. student at the College of Computing and Data Sci
 My research interests include multimodal large language models and agents, with a particular focus on their applications in embodied intelligence and physical-world reasoning.
 
 # 🔥 News
-<div class="news-scroll" markdown="1">
-
 - **2026.5**: Three papers got accepted to ICML 2026
 - **2026.1**: Two papers got accepted to ICLR 2026
 - **2025.9**: One paper got accepted to NeurIPS 2025
@@ -34,8 +32,6 @@ My research interests include multimodal large language models and agents, with 
 - **2024.7**: We released [MindSearch(思·索)](https://mindsearch.netlify.app/), which is an awesome AI search engine comparable to Perplexity.ai Pro. Welcome to use and provide your feedback!
 - **2024.4**: One paper got accepted to ACL 2024
 - **2024.3**: We released [Agent-FLAN](https://github.com/InternLM/Agent-FLAN), which explores the construction of high-quality agent corpus for LLMs.
-
-</div>
 
 # 📝 Publications 
 
@@ -273,4 +269,5 @@ Kou Shi, Ziao Zhang, Shiting Huang, Avery Nie, Zhen Fang, **Qiuchen Wang**, Lin 
 # 💬 Academic Services
 - **Journal Reviewer**: TPAMI, TMM
 - **Conference Reviewer**: ICML 2026, ICLR 2026, NeurIPS 2025, ARR 2025
+
 

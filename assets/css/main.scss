@@ -87,6 +87,18 @@
 
 }
 
+.news-scroll {
+    max-height: 13em;
+    overflow-y: auto;
+    padding-right: 0.75em;
+    margin-bottom: 1.5em;
+    border-bottom: 1px solid #efefef;
+
+    ul {
+        margin-bottom: 0.75em;
+    }
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 

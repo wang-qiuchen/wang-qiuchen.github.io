@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I’m Qiuchen Wang, a final year graduate student at University of Science and Technology of China. I am co-supervised by Prof. [Feng Zhao](https://en.auto.ustc.edu.cn/2021/0616/c26828a513169/page.htm) and Prof. [Feng Wu](https://scholar.google.com/citations?user=5bInRDEAAAAJ). Previously, I obtained my B.Eng. degree in Electronic Information and Communications at Huazhong University of Science and Technology, where I feel very fortunate to have been under the guidance of Prof. [Xinge You](https://bmal.hust.edu.cn/EN.htm).
+Hi! I’m Qiuchen Wang, a Ph.D. student at the College of Computing and Data Science, Nanyang Technological University. Previously, I received my M.S. degree from the University of Science and Technology of China, where I was co-supervised by Prof. [Feng Zhao](https://en.auto.ustc.edu.cn/2021/0616/c26828a513169/page.htm) and Prof. [Feng Wu](https://scholar.google.com/citations?user=5bInRDEAAAAJ). I obtained my B.Eng. degree in Electronic Information and Communications from Huazhong University of Science and Technology, where I feel very fortunate to have been under the guidance of Prof. [Xinge You](https://bmal.hust.edu.cn/EN.htm).
 
-My research interest includes Multi-modal Large Language Models, Multi-modal Agents, and Reinforcement Learning.
+My research interests include multimodal large language models and agents, with a particular focus on their applications in embodied intelligence and physical-world reasoning.
 
 # 🔥 News
 - **2026.5**: Three papers got accepted to ICML 2026

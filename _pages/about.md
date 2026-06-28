@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I’m Qiuchen Wang, a Ph.D. student at the College of Computing and Data Science, Nanyang Technological University, under the supervision of Prof. Dacheng Tao. Previously, I received my M.S. degree from the University of Science and Technology of China, where I was co-supervised by Prof. [Feng Zhao](https://en.auto.ustc.edu.cn/2021/0616/c26828a513169/page.htm) and Prof. [Feng Wu](https://scholar.google.com/citations?user=5bInRDEAAAAJ). I obtained my B.Eng. degree in Electronic Information and Communications from Huazhong University of Science and Technology, where I feel very fortunate to have been under the guidance of Prof. [Xinge You](https://bmal.hust.edu.cn/EN.htm).
+Hi! I’m Qiuchen Wang, a Ph.D. student at the College of Computing and Data Science, Nanyang Technological University, under the supervision of Prof. [Dacheng Tao](https://dr.ntu.edu.sg/lucky-search?index=legacy-id&value=rp02343). Previously, I received my M.S. degree from the University of Science and Technology of China, where I was co-supervised by Prof. [Feng Zhao](https://en.auto.ustc.edu.cn/2021/0616/c26828a513169/page.htm) and Prof. [Feng Wu](https://scholar.google.com/citations?user=5bInRDEAAAAJ). I obtained my B.Eng. degree in Electronic Information and Communications from Huazhong University of Science and Technology, where I feel very fortunate to have been under the guidance of Prof. [Xinge You](https://bmal.hust.edu.cn/EN.htm).
 
 My research interests include multimodal large language models and agents, with a particular focus on their applications in embodied intelligence and physical-world reasoning.
 

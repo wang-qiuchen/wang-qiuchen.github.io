@@ -252,6 +252,7 @@ Kou Shi, Ziao Zhang, Shiting Huang, Avery Nie, Zhen Fang, **Qiuchen Wang**, Lin 
 
 
 # 🎖 Awards
+- Outstanding Graduate of USTC and Anhui Province, 2026.
 - National Scholarship, 2025.
 - $1^{st}$ place at VCL2023 Challenge, Multitask Learning for Robustness Track! (**ICCV 2023** Workshop)
 - Outstanding Graduates of Huazhong University of Science and Technology, 2023.
@@ -268,6 +269,5 @@ Kou Shi, Ziao Zhang, Shiting Huang, Avery Nie, Zhen Fang, **Qiuchen Wang**, Lin 
 
 # 💬 Academic Services
 - **Journal Reviewer**: TPAMI, TMM
-- **Conference Reviewer**: ICML 2026, ICLR 2026, NeurIPS 2025, ARR 2025
-
+- **Conference Reviewer**: ICML 2026, ICLR 2026-2027, NeurIPS 2025-2026, ARR 2025-2026
 

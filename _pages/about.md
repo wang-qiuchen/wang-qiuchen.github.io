@@ -260,6 +260,7 @@ Kou Shi, Ziao Zhang, Shiting Huang, Avery Nie, Zhen Fang, **Qiuchen Wang**, Lin 
 - The First Prize of the 12th China Undergraduate Mathematics Competition, 2020.
 
 # 📖 Educations
+- *2026.09 - present*, Ph.D. student at Nanyang Technological University.
 - *2023.09 - 2026.06*, M.E. at University of Science and Technology of China. 
 - *2019.09 - 2023.06*, B.E. in Electronic Information and Communications of Huazhong University of Science and Technology. 
 

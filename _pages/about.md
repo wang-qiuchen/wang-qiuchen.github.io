@@ -265,6 +265,7 @@ Kou Shi, Ziao Zhang, Shiting Huang, Avery Nie, Zhen Fang, **Qiuchen Wang**, Lin 
 - *2019.09 - 2023.06*, B.E. in Electronic Information and Communications of Huazhong University of Science and Technology. 
 
 # 💻 Internships
+- *2026.04 - 2026.08*, Embodied AI and World Model Research Intern, Shanghai, China.
 - *2024.08 - 2026.04*, LLM Research Intern, Qwen RAG Group at Alibaba-inc, Hangzhou, China.
 - *2023.03 - 2023.06*, Autonomous Driving Intern, iMotion, Suzhou, China.
 

@@ -22,6 +22,7 @@ Hi! I’m Qiuchen Wang, a Ph.D. student at the College of Computing and Data Sci
 My research interests include multimodal large language models and agents, with a particular focus on their applications in embodied intelligence and physical-world reasoning.
 
 # 🔥 News
+- **2026.9**: One paper got accepted to EMNLP 2026
 - **2026.5**: Three papers got accepted to ICML 2026
 - **2026.1**: Two papers got accepted to ICLR 2026
 - **2025.9**: One paper got accepted to NeurIPS 2025
